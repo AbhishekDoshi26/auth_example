@@ -1,3 +1,11 @@
-# Auth Example
+# Firebase Authentication with Email and Password!
 
-This example contains the code which shows the usage of private package (here Firebase Authentication) and then integrating it into Flutter application.
+[![Somnio Software](images/logo.png)][somnio_software_link]
+
+Developed with :blue_heart: &nbsp;by [Somnio Software][somnio_software_link]
+
+Authentication is one of the most used features for developing apps. This repository contains all the code that enables you to add Firebase Authentication in your Flutter app with some of the best practices followed.
+
+
+[//]: # "Links"
+[somnio_software_link]: https://somniosoftware.com/
